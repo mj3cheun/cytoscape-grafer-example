@@ -1,0 +1,6 @@
+node_modules/
+conversations.json
+corpus.json
+index.json
+speakers.json
+utterances.jsonl

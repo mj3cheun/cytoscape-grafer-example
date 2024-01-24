@@ -1,0 +1,19 @@
+{
+  "name": "cytoscape-grafer-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.4.11"
+  },
+  "dependencies": {
+    "@uncharted.software/grafer": "^0.13.0",
+    "cytoscape": "^3.28.1"
+  }
+}
